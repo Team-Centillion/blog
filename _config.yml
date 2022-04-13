@@ -22,8 +22,8 @@ title: Centillion
 email: admin@centillion.kr
 description: >- # this means to ignore newlines until "baseurl:"
   팀 센틸리온의 블로그입니다. 새로운 프로젝트나 소식이 있으면 여기에 올라옵니다 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://centillion.kr" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.centillion.kr" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Team-Centillion
 
 # Build settings
