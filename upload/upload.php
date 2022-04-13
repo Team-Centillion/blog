@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    echo $_GET['profile'];
+    echo $_POST['profile'];
     ?>
   
 </body>
