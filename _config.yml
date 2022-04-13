@@ -27,7 +27,7 @@ url: "https://blog.centillion.kr" # the base hostname & protocol for your site, 
 github_username:  Team-Centillion
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
