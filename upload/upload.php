@@ -1,15 +1,3 @@
 <?php
-$source = $_FILES['profile']['tmp_name'];
-$dest = "./".basename($_FILES['profile']['name']);
-move_uploaded_file($source, $dest);
+echo $_POST['profile'];
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <img src="<?=$_FILES['profile']['name']?>" alt="" />
-</body>
-</html>
