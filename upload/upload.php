@@ -8,8 +8,7 @@
 </head>
 <body>
     <?php
-    urlConn.setDoOutput(true); 
-    echo $_POST['profile'];
+    echo "asfd";
 
     ?>
   
