@@ -1,3 +1,3 @@
 <?php
-echo $_POST['profile'];
+echo $_GET['profile'];
 ?>
